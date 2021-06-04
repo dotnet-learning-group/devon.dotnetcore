@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/src/devon.dotnetcore/obj
+/.vs/devon.dotnetcore/v16
